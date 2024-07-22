@@ -1,4 +1,6 @@
-# Welcome everyone! 
+# Welcome everyone!
+
+![Hello World Gif](https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 
 Hello, I am Andreas, a developer and musician based in Berlin with working experience in the fields of Machine Learning, Data Analytics, SQL and Python.
 
