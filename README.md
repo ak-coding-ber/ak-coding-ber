@@ -13,7 +13,7 @@ Hello, I am Andreas, a developer and musician based in Berlin with working exper
 If I am not coding I very much enjoy the following activities:
 
 - singing and playing guitar
-- music production
+- music production & songwriting
 - photography
 - reading
 - hiking and traveling
