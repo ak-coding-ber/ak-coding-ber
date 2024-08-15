@@ -1,10 +1,10 @@
-# Welcome everyone!
+# `Welcome everyone!`
 
-![My Foto 1](./img/profile_img2.jpg)
+Hello, I am Andreas, a developer, musician and photographer based in Berlin with working experience in the fields of Machine Learning, Data Analytics and Web Development. :rocket:
 
-Hello, I am Andreas, a developer and musician based in Berlin with working experience in the fields of Machine Learning, Data Analytics and Web Development. :rocket:
+---
 
-##My Skillset
+## `My Skillset`
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +20,9 @@ Hello, I am Andreas, a developer and musician based in Berlin with working exper
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-##You can find me on:
+---
+
+## `You can find me on:`
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
@@ -28,12 +30,21 @@ Hello, I am Andreas, a developer and musician based in Berlin with working exper
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 
+---
+
 If I am not coding I very much enjoy the following activities:
 
 - singing and playing guitar
 - music production & songwriting
-- photography (I shot the fotos you see here)
+- photography _(see some of my fotos below)_
 - reading
 - hiking and traveling
 
-![My Foto 1](./img/profile_img1.jpg)
+---
+
+## `Sample Fotos`
+
+![My Foto 1](./img/foto_sample_2.png)
+![My Foto 2](./img/foto_sample_1.jpg)
+![My Foto 3](./img/foto_sample_4.png)
+![My Foto 4](./img/foto_sample_5.jpg)
