@@ -45,7 +45,7 @@ If I am not coding I very much enjoy the following activities:
 
 ## `Sample Fotos`
 
-![My Foto 1](./img/foto_sample_2.png)
+![My Foto 1](./img/foto_sample_2.jpg)
 ![My Foto 2](./img/foto_sample_1.jpg)
-![My Foto 3](./img/foto_sample_4.png)
+![My Foto 3](./img/foto_sample_4.jpg)
 ![My Foto 4](./img/foto_sample_5.jpg)
